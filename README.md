@@ -11,11 +11,11 @@
 
 ## Instalação
 
-Instalar o JSON Server
+Instalar o JSON Server dentro da pasta projeto-vidflow
 
 ``` npm install -g json-server ```
 
-Rodar o JSON Server da Aplicação
+Rodar o JSON Server da Aplicação dentro da pasta projeto-vidflow
 
 ``` json-server --watch backend/videos.json ```
 
