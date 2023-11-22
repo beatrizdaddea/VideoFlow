@@ -18,3 +18,8 @@ Instalar o JSON Server
 Rodar o JSON Server da Aplicação
 
 ``` json-server --watch backend/videos.json ```
+
+## Screenshots
+
+![project image](https://github.com/beatrizdaddea/VideoFlow/assets/79612466/a10fa718-9efc-490f-81c5-95d2bf501276)
+
